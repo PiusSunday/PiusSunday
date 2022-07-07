@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Cross Platform Developer (specializing in Mobile Development and Data Science) pursuing my Bachelors in Computer Science.
+I'm a Student, Google IT Support Certificate Holder and Cross Platform Developer (specializing in Mobile Development and Data Science) with a Bachelors Degree in Computer Science.
 
 I enjoy contributing to Open Source Projects and I'm really enthusiastic about learning new technologies. In 2020, I learnt Java Basics. In 2021 I learnt HTML, CSS and a bit of JavaScript. At the moment, I’m currently learning Flutter/Dart || Python for Data Science || APIs.
 
