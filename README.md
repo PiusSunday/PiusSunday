@@ -22,10 +22,13 @@
 
 ## Key Highlights 🚀
 
-🔭 I’m currently exploring more about the Flutter Framework as well as Dart, where I develop mobile applications using Flutter and Dart.
-🎓 I recently completed my B.Sc. in Mathematics and Computer Science with a major in Computer Science/Networks, and I'm currently pursuing my M.Sc. in Software Engineering.
-🌱 I’m currently learning more about web3 and APIs, as well as improving my skills in Python for Data Science.
-👯 I’m interested in collaborating on Flutter and Machine Learning projects.
+- 🔭 I’m currently exploring more about the Flutter Framework as well as Dart, where I develop mobile applications using Flutter and Dart.
+
+- 🎓 I recently completed my B.Sc. in Mathematics and Computer Science with a major in Computer Science/Networks, and I'm currently pursuing my M.Sc. in Software Engineering.
+
+- 🌱 I’m currently learning more about web3 and APIs, as well as improving my skills in Python for Data Science.
+
+- 👯 I’m interested in collaborating on Flutter and Machine Learning projects.
 
 ⚡ Fun fact: I love to sing and play football.
 
