@@ -1,23 +1,35 @@
-# Hi there, I'm Pius Sunday - aka Sunny 👋
+# Hi there, I'm Pius Sunday Ojwo - aka Sunny 👋
 
-## About Me
+## About Me 👨🏽‍💻
 
-I'm a Masters Student in Software Engineering, Google IT Support Certificate Holder and Cross Platform Developer (specializing in Mobile Apps Development and Data Science) with a Bachelors Degree in Computer Science.
+👨‍🎓 I am pursuing a Master of Science in Software Engineering and have a Bachelor of Science in Computer Science with an emphasis on networks.
 
-I enjoy contributing to Open Source Projects and I'm really enthusiastic about learning new technologies. In 2020, I learnt Java Basics. In 2021 I learnt HTML, CSS and a bit of JavaScript. At the moment, I’m currently learning Flutter/Dart || Python for Data Science || APIs.
+💻 I'm also a Google IT Support certificate holder and a cross-platform developer with expertise in mobile development and data science.
 
-Outside the world of tech too, I love pushing myself to develop new skills ranging from singing and playing football which is a passion i found growing up as a kid. I love to gym and exercise regularly as it keeps me sane and going each day.
+🚀 I have a passion for contributing to open-source projects, and I'm always excited to learn new technologies. In the past, I've learned Java basics, HTML, CSS, and JavaScript, and I'm currently exploring Flutter and Dart, Python for data science, and APIs.
 
-I love travelling as well even though its been a long time since l last travelled.
+🌟 Recently, I completed a summer internship with Easy-Relay, where I worked on mobile application development using Flutter and Dart with Agile-Scrum methodologies. Additionally, I completed a bachelor's thesis project on a mobile price prediction application that uses machine learning, artificial intelligence, and the Internet of Things.
 
-## Key Highlights!!!
+🎤 I've also been actively involved in public speaking, delivering various conference talks and workshops on Flutter and Dart. I've conducted insightful and practical workshops for audiences ranging from 50 to 1000 people on various tech-related topics.
 
-- 🌱 I’m currently learning Flutter/Dart || Python for Data Science || APIs
-- 👯 I’m looking to Intern as a Flutter Developer, as well as collaborate on Flutter and Machine Learning Projects
-- 🥅 2022 Goals: Improve my Flutter skills, Improve my Python skills, and Learn more about web3
-- ⚡ Fun fact: I love to sing and play football
+👨‍💼 I'm currently the President of the Google Developer Groups Constantine Chapter (GDG), where my team and I are responsible for organizing impactful events and conferences, networking with potential event partners, speakers, mentors, and organizers, and growing and impacting the lives of every member in the chapter on a wide range of technical topics and activities.
 
-### Connect with me:
+💪 In my personal time, I enjoy developing new skills and hobbies, including singing, playing football, and working out regularly to stay healthy and focused. I also love traveling and exploring new places, although it's been a while since I've had the chance to do so.
+
+👨‍💻 I have experience developing various projects, including home 🏠, bitcoin 💰 ticker, and climate 🌡️ weather apps, among others, using Flutter, Dart, and Firebase. I've also created a laptop 💻 price prediction API using Python and Flask and deployed it to Heroku, as well as a chat 💬 app using Flutter and Dart.
+
+🚀 In summary, I'm a dedicated, driven, and enthusiastic software engineer with a passion for learning and growing in my field. 🌟
+
+## Key Highlights 🚀
+
+🔭 I’m currently exploring more about the Flutter Framework as well as Dart, where I develop mobile applications using Flutter and Dart.
+🎓 I recently completed my B.Sc. in Mathematics and Computer Science with a major in Computer Science/Networks, and I'm currently pursuing my M.Sc. in Software Engineering.
+🌱 I’m currently learning more about web3 and APIs, as well as improving my skills in Python for Data Science.
+👯 I’m interested in collaborating on Flutter and Machine Learning projects.
+
+⚡ Fun fact: I love to sing and play football.
+
+### Connect with me 📱
 
 [![website](./icons/twitter-light.svg)](https://twitter.com/_piussunday_#gh-light-mode-only)
 [![website](./icons/twitter-dark.svg)](https://twitter.com/_piussunday_#gh-dark-mode-only)
@@ -28,7 +40,7 @@ I love travelling as well even though its been a long time since l last travelle
 [![website](./icons/instagram-light.svg)](https://instagram.com/_piussunday_#gh-light-mode-only)
 [![website](./icons/instagram-dark.svg)](https://instagram.com/_piussunday_#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages and Tools 👨🏽‍💻💻
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
