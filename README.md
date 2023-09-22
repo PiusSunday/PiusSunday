@@ -103,4 +103,6 @@
 
 </p>
 
-![Sunny's Profile Visits](https://badges.pufler.dev/visits/PiusSunday/PiusSunday?color=teal)
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/PiusSunday/PiusSunday?color=teal" alt="Visitors badge" />
+</a>
