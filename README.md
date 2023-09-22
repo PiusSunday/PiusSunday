@@ -1,55 +1,162 @@
-# Hi there, I'm Pius Sunday Ojwo - aka Sunny 👋
+# Hi there, I'm Pius Sunday Ojwo 👋
 
-## About Me 👨🏽‍💻
+## 👨‍💻 Software Developer
 
-👨‍🎓 I am pursuing a Master of Science in Software Engineering and have a Bachelor of Science in Computer Science with an emphasis on networks.
+- 🔭 I’m currently working on some personal projects
 
-💻 I'm also a Google IT Support certificate holder and a cross-platform developer with expertise in mobile development and data science.
+- 🌱 I’m currently learning **Laravel/PHP and NodJS**
 
-🚀 I have a passion for contributing to open-source projects, and I'm always excited to learn new technologies. In the past, I've learned Java basics, HTML, CSS, and JavaScript, and I'm currently exploring Flutter and Dart, Python for data science, and APIs.
+- 🌱 I’m currently using **Flutter and Dart**
 
-🌟 Recently, I completed a summer internship with Easy-Relay, where I worked on mobile application development using Flutter and Dart with Agile-Scrum methodologies. Additionally, I completed a bachelor's thesis project on a mobile price prediction application that uses machine learning, artificial intelligence, and the Internet of Things.
+- 👨‍💻 All of my public projects are available at [GitHub](https://github.com/PiusSunday?tab=repositories)
 
-🎤 I've also been actively involved in public speaking, delivering various conference talks and workshops on Flutter and Dart. I've conducted insightful and practical workshops for audiences ranging from 50 to 1000 people on various tech-related topics.
+- 👯 I’m open to work and collaborations
 
-👨‍💼 I'm currently the President of the Google Developer Groups Constantine Chapter (GDG), where my team and I are responsible for organizing impactful events and conferences, networking with potential event partners, speakers, mentors, and organizers, and growing and impacting the lives of every member in the chapter on a wide range of technical topics and activities.
+- 📫 How to reach me **<sundaypius2000@gmail.com>** or **<sunday.pius@univ-constantine2.dz>**
 
-💪 In my personal time, I enjoy developing new skills and hobbies, including singing, playing football, and working out regularly to stay healthy and focused. I also love traveling and exploring new places, although it's been a while since I've had the chance to do so.
+- ⚡ Fun fact: I watch korean dramas a lot, and I love cooking.
 
-👨‍💻 I have experience developing various projects, including home 🏠, bitcoin 💰 ticker, and climate 🌡️ weather apps, among others, using Flutter, Dart, and Firebase. I've also created a laptop 💻 price prediction API using Python and Flask and deployed it to Heroku, as well as a chat 💬 app using Flutter and Dart.
+## GitHub Stats
 
-🚀 In summary, I'm a dedicated, driven, and enthusiastic software engineer with a passion for learning and growing in my field. 🌟
+![Pius Sunday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiusSunday&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiusSunday&theme=great-gatsby&layout=compact)
 
-## Key Highlights 🚀
+## My Stack
 
-- 🔭 I’m currently exploring more about the Flutter Framework as well as Dart, where I develop mobile applications using Flutter and Dart.
+### Languages
 
-- 🎓 I recently completed my B.Sc. in Mathematics and Computer Science with a major in Computer Science/Networks, and I'm currently pursuing my M.Sc. in Software Engineering.
+<!-- Python -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 🌱 I’m currently learning more about web3 and APIs, as well as improving my skills in Python for Data Science.
+<!-- Dart -->
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 
-- 👯 I’m interested in collaborating on Flutter and Machine Learning projects.
+<!-- Java -->
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-⚡ Fun fact: I love to sing and play football.
+<!-- Laravel -->
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 
-### Connect with me 📱
+<!-- PHP -->
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 
-[![website](./icons/twitter-light.svg)](https://twitter.com/_piussunday_#gh-light-mode-only)
-[![website](./icons/twitter-dark.svg)](https://twitter.com/_piussunday_#gh-dark-mode-only)
+<!-- NodeJS -->
+![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+
+### Application and Data
+
+<!-- Flutter  -->
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+
+<!-- Dart -->
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+
+<!-- Firebase -->
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+
+<!-- MySQL -->
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+<!-- Jupyter Notebook -->
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)
+
+### QA & Testing
+
+<!-- WidgetTester -->
+![WidgetTester](https://img.shields.io/badge/-WidgetTester-0175C2?logo=dart&logoColor=white&style=flat)
+
+<!-- Mockito -->
+![Mockito](https://img.shields.io/badge/-Mockito-0175C2?logo=dart&logoColor=white&style=flat)
+
+<!-- Unit Testing -->
+![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-0175C2?logo=dart&logoColor=white&style=flat)
+
+<!-- Flutter Driver -->
+![Flutter Driver](https://img.shields.io/badge/-Flutter%20Driver-0175C2?logo=dart&logoColor=white&style=flat)
+
+### UX/UI
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+
+### Utilities
+
+<!-- Insomnia -->
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
+
+<!-- Postman -->
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+<!-- VSCode -->
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+<!-- Android Studio -->
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
+<!-- Visual Studio -->
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
+<!-- Ngrok -->
+![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
+
+<!-- Jupyter Notebook -->
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)
+
+<!-- Anaconda -->
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+
+<!-- Google Chrome -->
+![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white)
+
+#### DevOps
+
+<!-- Git -->
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+<!-- GitHub -->
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
+<!-- GitLab -->
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+
+#### Business
+
+<!-- Notion -->
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
+
+<!-- Trello -->
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+
+<!-- Slack -->
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
+<!-- Zoom -->
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
+
+![Sunny's Profile Visits](https://badges.pufler.dev/visits/PiusSunday/PiusSunday?color=teal)
+
+## 🏻&nbsp; Let's Connect on 👨 🤝 👩
+
+### Social Media
+
+<p>
+
+<!-- Email -->
+<a href="mailto:sundaypius2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 &nbsp;&nbsp;
-[![website](./icons/linkedin-light.svg)](https://www.linkedin.com/in/pius-sunday-ojwo-b36434212/#gh-light-mode-only)
-[![website](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/pius-sunday-ojwo-b36434212/#gh-dark-mode-only)
+
+<!-- Twitter -->
+<a href="https://twitter.com/_piussunday_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 &nbsp;&nbsp;
-[![website](./icons/instagram-light.svg)](https://instagram.com/_piussunday_#gh-light-mode-only)
-[![website](./icons/instagram-dark.svg)](https://instagram.com/_piussunday_#gh-dark-mode-only)
 
-### Languages and Tools 👨🏽‍💻💻
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/pius-sunday-ojwo/">
+    <img src="https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
+</p>
