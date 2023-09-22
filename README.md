@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on some personal projects
 
-- 🌱 I’m currently learning **Laravel/PHP and NodJS**
+- 🌱 I’m currently learning **Laravel/PHP and NodeJS**
 
 - 🌱 I’m currently using **Flutter and Dart**
 
