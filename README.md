@@ -4,15 +4,19 @@
 
 - 🔭 I’m currently working on some personal projects
 
-- 🌱 I’m currently learning **Laravel/PHP and NodeJS**
-
 - 🌱 I’m currently using **Flutter and Dart**
+
+- 🌱 I'm also a **Data Scientist** specializing in **Machine Learning**
+
+- 🌱 I’m currently learning **Laravel/PHP and NodeJS**
 
 - 👨‍💻 All of my public projects are available at [GitHub](https://github.com/PiusSunday?tab=repositories)
 
 - 👯 I’m open to work and collaborations
 
 - 📫 How to reach me **<sundaypius2000@gmail.com>** or **<sunday.pius@univ-constantine2.dz>**
+
+- 📫 Hire me [Resume-CV](https://www.dropbox.com/scl/fi/q9012ywjj9saqz0n6kw0r/PiusSundayCV.pdf?rlkey=zh8r76yrubdmnaa1k4xyugte3&dl=0)
 
 - ⚡ Fun fact: I watch korean dramas a lot, and I love cooking.
 
@@ -59,6 +63,8 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Intellij](https://img.shields.io/badge/-Intellij-000000?style=flat&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
