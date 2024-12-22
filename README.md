@@ -22,7 +22,7 @@ I'm a Software Engineer and Data Scientist specializing in mobile app developmen
 - Mobile App Development (Flutter/Dart)
 - Machine Learning & Deep Learning
 - Federated Learning
-- Full-Stack Development
+- Full-Stack Mobile Development
 
 👨‍💻 All of my public projects are available at [GitHub](https://github.com/PiusSunday?tab=repositories)
 
