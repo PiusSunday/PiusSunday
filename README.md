@@ -1,24 +1,38 @@
 # Hi there, I'm Pius Sunday Ojwo 👋
 
-## 👨‍💻 Software Developer
+I'm a Software Engineer and Data Scientist specializing in mobile app development and artificial intelligence. Currently working as a Python & Data Science Instructor at SoCode School.
 
-- 🔭 I’m currently working on some personal projects
+## 👨‍💻 Software Engineer & Data Scientist
 
-- 🌱 I’m currently using **Flutter and Dart**
+🔭 Currently working on:
 
-- 🌱 I'm also a **Data Scientist** specializing in **Machine Learning**
+- FED-NIDS: A Bio-Inspired Federated Learning-Based Network Intrusion Detection System
+- Advanced Flutter applications with Clean Architecture and TDD
+- Machine Learning and Deep Learning projects in Python
 
-- 🌱 I’m currently learning **Laravel/PHP and NodeJS**
+🌱 Current focus:
 
-- 👨‍💻 All of my public projects are available at [GitHub](https://github.com/PiusSunday?tab=repositories)
+- Upskilling in AI Engineering
+- Cloud Services (Azure, AWS)
+- GoLang
+- Advanced Mobile Development with Flutter
 
-- 👯 I’m open to work and collaborations
+💼 Experienced in:
 
-- 📫 How to reach me **<sundaypius2000@gmail.com>** or **<sunday.pius@univ-constantine2.dz>**
+- Mobile App Development (Flutter/Dart)
+- Machine Learning & Deep Learning
+- Federated Learning
+- Full-Stack Development
 
-- 📫 Hire me [Resume-CV](https://www.dropbox.com/scl/fi/q9012ywjj9saqz0n6kw0r/PiusSundayCV.pdf?rlkey=zh8r76yrubdmnaa1k4xyugte3&dl=0)
+👨‍💻 All of my public projects are available at [GitHub](https://github.com/PiusSunday?tab=repositories)
 
-- ⚡ Fun fact: I watch korean dramas a lot, and I love cooking.
+👯 I’m open to work and collaborations
+
+📫 How to reach me: **<sundaypius2000@gmail.com>** or **<sunday.pius@univ-constantine2.dz>**
+
+📫 Hire me: [Resume-CV](https://www.dropbox.com/scl/fi/q9012ywjj9saqz0n6kw0r/PiusSundayCV.pdf?rlkey=zh8r76yrubdmnaa1k4xyugte3&dl=0)
+
+⚡ Fun fact: I love and watch korean dramas a lot, and I love trying new recipes.
 
 ## GitHub Stats
 
