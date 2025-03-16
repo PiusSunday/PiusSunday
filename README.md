@@ -1,38 +1,39 @@
 # Hi there, I'm Pius Sunday Ojwo 👋
 
-I'm a Software Engineer and Data Scientist specializing in mobile app development, artificial intelligence, and federated learning. Currently working as a Python & Data Science Instructor at SoCode School, I am deeply passionate about AI research, machine learning and deep learning, and building scalable, secure systems for IoT ecosystems.
+I'm a Software Engineer and Data Scientist specializing in mobile app development, artificial intelligence, and federated learning. Currently working as a Python & Data Science Instructor at [SoCode School](https://socode.tech/), I am deeply passionate about AI research, machine learning and deep learning, and building scalable, secure systems for IoT ecosystems.
 
 ## 👨‍💻 Software Engineer & Data Scientist
 
 🔭 **Currently working on:**
 
+- **Machine Learning & Deep Learning:** Advanced machine learning operations (MLOps), developing predictive models and exploring GenAI, LLMs, AI in AgriTech and reinforcement learning for autonomous systems.
 - **FED-NIDS:** A Bio-Inspired Federated Learning-Based Network Intrusion Detection System for IoT ecosystems.
 - **Advanced Flutter Applications:** Building scalable mobile apps with Clean Architecture and Test-Driven Development (TDD).
-- **Machine Learning & Deep Learning:** Developing predictive models and exploring reinforcement learning for autonomous systems.
 
 🌱 **Current focus:**
 
-- **AI Engineering:** Upskilling in advanced AI techniques, including federated learning, reinforcement learning, and bio-inspired algorithms.
+- **AI Engineering:** Upskilling in advanced MLOps and AI techniques, including data engineering, federated learning, reinforcement learning, and bio-inspired algorithms.
 - **Cloud Services:** Gaining expertise in Azure and AWS for scalable AI and ML deployments.
 - **GoLang:** Exploring Go for backend development and microservices.
 - **Advanced Mobile Development:** Enhancing my skills in Flutter for building robust, production-ready applications.
 
-💼 Experienced in:
+💼 **Experienced in:**
 
-- Mobile App Development (Flutter/Dart)
-- Machine Learning & Deep Learning
-- Federated Learning
-- Full-Stack Mobile Development
+- **Mobile App Development:** Flutter/Dart, Firebase, REST APIs, and backend integration.
+- **Machine Learning & Deep Learning:** Scikit-learn, PyTorch, TensorFlow, and Keras.
+- **Federated Learning:** Building secure, privacy-preserving AI models for distributed systems.
+- **Full-Stack Mobile Development:** From unique frontend user interfaces to backend development and deployment.
 
-👨‍💻 All of my public projects are available at [GitHub](https://github.com/PiusSunday?tab=repositories)
+👨‍💻 **All of my public projects are available at [GitHub](https://github.com/PiusSunday?tab=repositories)**
 
-👯 I’m open to work and collaborations
+👯 **I’m open to work and collaborations** in AI, machine learning, mobile development, IoT, robotics and research works.
 
-📫 How to reach me: **<sundaypius2000@gmail.com>** or **<sunday.pius@univ-constantine2.dz>**
+📫 **How to reach me:**
 
-📫 Hire me: [Resume-CV](https://www.dropbox.com/scl/fi/q9012ywjj9saqz0n6kw0r/PiusSundayCV.pdf?rlkey=zh8r76yrubdmnaa1k4xyugte3&dl=0)
+- **Email:** [sundaypius2000@gmail.com](mailto:sundaypius2000@gmail.com) or [sunday.pius@univ-constantine2.dz](mailto:sunday.pius@univ-constantine2.dz)
+- **Resume:** [Download my CV](https://www.dropbox.com/scl/fi/ph2dqdhhw35vila1lmc0o/PiusSundayCV-AI-Engineer.pdf?rlkey=0jfe9dlqvcy4bpgekn3v3xv95&st=xbsme7vk&dl=0)
 
-⚡ Fun fact: I love and watch korean dramas a lot, and I love trying new recipes.
+⚡ **Fun fact:** I love watching Korean dramas and experimenting with new recipes in the kitchen.
 
 ## GitHub Stats
 
