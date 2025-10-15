@@ -1,8 +1,8 @@
 # Hi there, I'm Pius Sunday Ojwo 👋
 
-I'm a Software Engineer and Data Scientist specializing in mobile app development, artificial intelligence, and federated learning. Currently working as a Python & Data Science Instructor at [SoCode School](https://socode.tech/), I am deeply passionate about AI research, machine learning and deep learning, and building scalable, secure systems for IoT ecosystems.
+I'm a Software Engineer and AI Engineer specializing in mobile app development, artificial intelligence, and federated learning. Currently working as a Python & AI, Flutter & Dart Instructor at [SoCode School](https://socode.tech/), I am deeply passionate about AI research, machine learning and deep learning, and building scalable, secure systems for IoT ecosystems.
 
-## 👨‍💻 Software Engineer & Data Scientist
+## 👨‍💻 Software Engineer & AI Engineer
 
 🔭 **Currently working on:**
 
@@ -12,10 +12,10 @@ I'm a Software Engineer and Data Scientist specializing in mobile app developmen
 
 🌱 **Current focus:**
 
-- **AI Engineering:** Upskilling in advanced MLOps and AI techniques, including data engineering, federated learning, reinforcement learning, and bio-inspired algorithms.
-- **Cloud Services:** Gaining expertise in Azure and AWS for scalable AI and ML deployments.
+- **AI Engineering:** Upskilling in advanced MLOps and AI techniques, including Generative AI, data engineering, federated learning, reinforcement learning, and bio-inspired algorithms.
+- **Cloud Services:** Gaining expertise in cloud engineering for scalable AI and ML deployments.
 - **GoLang:** Exploring Go for backend development and microservices.
-- **Advanced Mobile Development:** Enhancing my skills in Flutter for building robust, production-ready applications.
+- **Advanced Mobile Development:** Enhancing my skills in Flutter for building scalable, production-ready applications.
 
 💼 **Experienced in:**
 
