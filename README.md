@@ -6,9 +6,9 @@ I'm a Software Engineer and AI Engineer specializing in mobile app development, 
 
 🔭 **Currently working on:**
 
-- **Machine Learning & Deep Learning:** Advanced machine learning operations (MLOps), developing predictive models and exploring GenAI, LLMs, AI in AgriTech and reinforcement learning for autonomous systems.
+- **Advanced Machine Learning, Deep Learning & GenAI:** Advanced machine learning operations (MLOps), developing predictive models and exploring GenAI, LLMs, AI in AgriTech and reinforcement learning for autonomous systems.
 - **FED-NIDS:** A Bio-Inspired Federated Learning-Based Network Intrusion Detection System for IoT ecosystems.
-- **Advanced Flutter Applications:** Building scalable mobile apps with Clean Architecture and Test-Driven Development (TDD).
+- **Building Advanced & Scalable Flutter Applications:** Building deployable, and scalable mobile apps with Clean Architecture and Test-Driven Development (TDD).
 
 🌱 **Current focus:**
 
@@ -204,7 +204,7 @@ I am actively involved in cutting-edge research in AI, IoT, and federated learni
 &nbsp;&nbsp;
 
 <!-- Twitter -->
-<a href="https://twitter.com/piussunday_dev">
+<a href="https://twitter.com/sunnythesage">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
