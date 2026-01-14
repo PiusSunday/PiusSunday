@@ -35,7 +35,7 @@ General Software Engineering, Flutter & Dart development, AI/ML/DL experiments, 
 
 📝 Check out my posts on [LinkedIn](https://www.linkedin.com/in/pius-sunday-ojwo/)
 
-🐦📸 Quick tips and tech carousels on [Twitter](https://x.com/Sunnythesage) & [Instagram](https://www.instagram.com/piussunday.dev/)
+🐦📸 Quick tips and tech carousels on [Twitter](https://x.com/piussunday_dev) & [Instagram](https://www.instagram.com/piussunday.dev/)
 
 📧 Occasional deep dives and blog posts on [piussunday.dev](https://piussunday.dev) (coming soon)
 
@@ -47,7 +47,7 @@ General Software Engineering, Flutter & Dart development, AI/ML/DL experiments, 
 
 💼 [LinkedIn](https://www.linkedin.com/in/pius-sunday-ojwo/)
 
-🐦 [Twitter](https://x.com/Sunnythesage)
+🐦 [Twitter](https://x.com/piussunday_dev)
 
 📸 [Instagram](https://www.instagram.com/piussunday.dev/)
 
