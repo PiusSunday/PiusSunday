@@ -2,7 +2,7 @@
 
 Software & AI Engineer from Constantine, Algeria. I build things with Flutter & Dart, Python, and AI.
 
-Currently a substitute lecturer at [University of Constantine 2](https://www.univ-constantine2.dz/), teaching at [SoCode School](https://socode.tech/) and working on some interesting projects.
+Currently a Part-Time Lecturer at [University of Constantine 2, Abdelhamid MEHRI](https://www.univ-constantine2.dz/), teaching at [SoCode School](https://socode.tech/) and working on some interesting projects.
 
 ## What I'm up to
 
@@ -15,13 +15,17 @@ Currently a substitute lecturer at [University of Constantine 2](https://www.uni
 
 ## Tech I work with
 
-**Languages:** Python, Dart, Go, Java, JavaScript
+**Programming Languages**: Dart, Python, JavaScript, Go (GoLang), Java, C++, C, SQL
 
-**Mobile:** Flutter, Swift (iOS)
+**Frontend & Mobile**: Flutter, NextJS, PWAs
 
-**AI/ML/DL:** PyTorch, Keras/TensorFlow, Scikit-learn, Flower (Federated Learning)
+**Backend & APIs**: Flask, FastAPI, Django, Dart Frog, Node.js, Laravel-PHP, REST APIs, Firebase, JWT, OAuth
 
-**Cloud:** GCP, AWS, Docker, GitHub Actions
+**AI/ML/DL & Data Engineering**: PyTorch, TensorFlow, Scikit-learn, Apache Spark, Kafka, AirFlow, Databricks, Gen-AI, Computer Vision, NLP, MLOps, Federated Learning, MLFlow, Weights & Biases
+
+**Cloud Infrastructure & CI/CD Tools**: Microservices, WebSockets, Docker, Google Cloud, AWS, Azure, Heroku, Vercel, Kubernetes, GitHub Actions, GitLab CI
+
+**Databases & Tools**: PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Isar, Hive, Git, GitHub, GitLab
 
 ## Recent work
 
@@ -55,14 +59,8 @@ General Software Engineering, Flutter & Dart development, AI/ML/DL experiments, 
 
 ## GitHub Stats
 
-![Pius Sunday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiusSunday&show_icons=true&theme=radical&hide=issues&count_private=true)
+[![PiusSunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiusSunday&show_icons=true&theme=great-gatsby&count_private=true)](https://github-readme-stats.vercel.app/api?username=PiusSunday&show_icons=true&theme=great-gatsby&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiusSunday&theme=great-gatsby&layout=compact&hide=html,css)
-
----
-
-## Visitors
-
-![Visitor Count](https://badges.pufler.dev/visits/PiusSunday/PiusSunday?color=teal)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiusSunday&layout=compact&theme=great-gatsby)](https://github-readme-stats.vercel.app/api/top-langs/?username=PiusSunday&layout=compact&theme=great-gatsby)
 
 ---
