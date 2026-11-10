@@ -1,66 +1,34 @@
-# Hey, I'm Sunny 👋
+# Pius Sunday Ojwo
 
-Software & AI Engineer from Constantine, Algeria. I build things with Flutter & Dart, Python, and AI.
+Software & AI engineer based in Constantine, Algeria. I build software across mobile, web, and backend, ship developer tools, and work on machine learning from prototype to production. My research is on federated learning for privacy-preserving security.
 
-Currently a Part-Time Lecturer at [University of Constantine 2, Abdelhamid MEHRI](https://www.univ-constantine2.dz/), teaching at [SoCode School](https://socode.tech/) and working on some interesting projects.
+## Now
 
-## What I'm up to
+- Senior Software Engineer & IT Manager at **Revolution Group**
+- Part-time Lecturer at **University of Constantine 2**, teaching mobile development with Flutter & Dart
+- Building open-source software and tools, in public
 
-- Lecturing at University of Constantine 2 (Software Engineering, Mobile Development)
-- Teaching Flutter & Dart, Python Programming, and Data Science to aspiring developers and tech enthusiasts
-- Building a Flutter Clean Architecture template (open sourcing soon)
-- Researching Federated Learning for IoT security
-- Taking on interesting freelance projects
-- Tech Content Creation & Knowledge Sharing (Social Media, Blog) - **Coming soon!!!**
+## Projects
 
-## Tech I work with
+[**mac-cleanup**](https://github.com/PiusSunday/mac-cleanup): a safe-by-default CLI that reclaims disk space lost to Xcode, Docker, Homebrew, build artifacts and system caches on macOS. Pure Bash, installable with Homebrew.
 
-**Programming Languages**: Dart, Python, JavaScript, Go (GoLang), Java, C++, C, SQL
+```bash
+brew tap PiusSunday/mac-cleanup && brew install mac-cleanup
+```
 
-**Frontend & Mobile**: Flutter, NextJS, PWAs
+## Research
 
-**Backend & APIs**: Flask, FastAPI, Django, Dart Frog, Node.js, Laravel-PHP, REST APIs, Firebase, JWT, OAuth
+**FED-NIDS: A Bio-Inspired Federated Deep Learning Framework for Privacy-Preserving Network Intrusion Detection in IoT**  
+Pius Sunday Ojwo, Mallem Bourhane-Eddine Islam, Naima Boukhiar  
+Presented at FLTA 2026 (FedSecAI Workshop), the 4th International Conference on Federated Learning Technologies and Applications.
 
-**AI/ML/DL & Data Engineering**: PyTorch, TensorFlow, Scikit-learn, Apache Spark, Kafka, AirFlow, Databricks, Gen-AI, Computer Vision, NLP, MLOps, Federated Learning, MLFlow, Weights & Biases
+## Stack
 
-**Cloud Infrastructure & CI/CD Tools**: Microservices, WebSockets, Docker, Google Cloud, AWS, Azure, Heroku, Vercel, Kubernetes, GitHub Actions, GitLab CI
+**Languages:** Python, Dart, TypeScript, Go, Bash  
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, Flower, MLflow  
+**Apps & APIs:** Flutter, Next.js, FastAPI, Flask, Node.js  
+**Data & Infra:** PostgreSQL, Supabase, Firebase, Docker, Kubernetes, GitHub Actions, GCP, AWS
 
-**Databases & Tools**: PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Isar, Hive, Git, GitHub, GitLab
+## Elsewhere
 
-## Recent work
-
-Check out my public [repositories](https://github.com/PiusSunday?tab=repositories).
-
-## I write about & share my knowledge and experience on
-
-General Software Engineering, Flutter & Dart development, AI/ML/DL experiments, Federated Learning, and whatever I'm learning or currently working on.
-
-📝 Read my articles on [Medium](https://medium.com/@PiusSunday)
-
-📝 Check out my posts on [LinkedIn](https://www.linkedin.com/in/pius-sunday-ojwo/)
-
-🐦📸 Quick tips and tech carousels on [Twitter](https://x.com/piussunday_dev) & [Instagram](https://www.instagram.com/piussunday.dev/)
-
-📧 Occasional deep dives and blog posts on [piussunday.dev](https://piussunday.dev) (coming soon)
-
-## Let's connect
-
-📧 <contact@piussunday.dev> or <sundaypius2000@gmail.com>
-
-🌐 [piussunday.dev](https://piussunday.dev)
-
-💼 [LinkedIn](https://www.linkedin.com/in/pius-sunday-ojwo/)
-
-🐦 [Twitter](https://x.com/piussunday_dev)
-
-📸 [Instagram](https://www.instagram.com/piussunday.dev/)
-
----
-
-## GitHub Stats
-
-[![PiusSunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiusSunday&show_icons=true&theme=great-gatsby&count_private=true)](https://github-readme-stats.vercel.app/api?username=PiusSunday&show_icons=true&theme=great-gatsby&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiusSunday&layout=compact&theme=great-gatsby)](https://github-readme-stats.vercel.app/api/top-langs/?username=PiusSunday&layout=compact&theme=great-gatsby)
-
----
+[piussunday.dev](https://piussunday.dev) · [LinkedIn](https://www.linkedin.com/in/pius-sunday-ojwo/) · [X](https://x.com/piussunday_dev) · [Medium](https://medium.com/@PiusSunday) · [contact@piussunday.dev](mailto:contact@piussunday.dev)
